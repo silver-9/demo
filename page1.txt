@@ -1,4 +1,1 @@
-my name is 
-amind ra
-hello vik
-
+my name is page1.
